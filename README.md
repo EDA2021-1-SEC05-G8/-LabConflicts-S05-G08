@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Fernando Álvarez
-Estudiante 2: Johan Ardila
+Estudiante 1: Fernando Álvarez - f.alvarezl@uniandes.edu.co - 202014988
+Estudiante 2: Johan Ardila - js.ardilat@uniandes.edu.co - 201911400
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
